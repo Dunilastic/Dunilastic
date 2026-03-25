@@ -1,4 +1,4 @@
-# Hi, I'm Daniel Ramírez (Dunilastic) 👋
+# Hi, I'm Daniel I. Ramírez (Dunilastic) 👋
 
 ### Software Developer (DAM) & Aspiring Game Designer
 I am a second-year Multi-platform Applications Development student with a focus on **technical game design** and **systems architecture**. I bridge the gap between creative mechanics and robust code.
