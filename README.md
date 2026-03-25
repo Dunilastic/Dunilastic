@@ -9,7 +9,7 @@ I am a second-year Multi-platform Applications Development student with a focus 
 *JRPG Design Framework including GDD, LDD, and TDD.*
 * **Core Systems:** Synergy mechanics, turn-based combat, and stat balancing.
 * **Technical:** State machines, level flow, and technical documentation.
-* [Link to Project Repository] <-- (Aquí pondrás el link cuando crees el repo de Ink & Steel)
+* [Link to Project Repository](https://github.com/Dunilastic/Ink-and-Steel-JRPG-Design-Framework)
 
 ### 🛠️ Tech Stack & Tools
 * **Languages:** Java, Python, SQL, JavaScript, HTML/CSS.
